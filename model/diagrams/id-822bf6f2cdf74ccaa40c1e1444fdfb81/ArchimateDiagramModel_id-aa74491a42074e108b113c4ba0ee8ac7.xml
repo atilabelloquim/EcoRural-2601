@@ -1,0 +1,67 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1. Metamodelo da Arquitetura"
+    id="id-aa74491a42074e108b113c4ba0ee8ac7">
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-f5a209fdc6fb4e4ab68980fc0852c3ac">
+    <bounds
+        x="324"
+        y="372"
+        width="193"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-e084665e7db9430ca9325c0c16b75bef.xml#id-e084665e7db9430ca9325c0c16b75bef"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-77125cfa2b5b429bbbd7e453314a4c82">
+    <bounds
+        x="324"
+        y="240"
+        width="193"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-9426d19b72e54687a2a02ac4ed532709.xml#id-9426d19b72e54687a2a02ac4ed532709"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-2c2bb2f9124e4128b7d0dbca6b56763a">
+    <bounds
+        x="324"
+        y="108"
+        width="193"
+        height="109"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-1f98ccd5ea394b8bac448b826d6cfd60.xml#id-1f98ccd5ea394b8bac448b826d6cfd60"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-8fc2021edba3443f9efe78f3388c4bf1">
+    <bounds
+        x="24"
+        y="8"
+        width="205"
+        height="45"/>
+    <referencedModel
+        xsi:type="archimate:ArchimateDiagramModel"
+        href="ArchimateDiagramModel_id-f4279308c8dd46908359cc8b437c1034.xml#id-f4279308c8dd46908359cc8b437c1034"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-a7f27d762c074ecb8316dc052ae4e507"
+      font="1|Segoe UI|15.75|0|WINDOWS|1|-21|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
+      fillColor="#80ffff"
+      content="Metamodelo da Arquitetura"
+      borderType="1">
+    <bounds
+        x="252"
+        y="9"
+        width="349"
+        height="44"/>
+  </children>
+</archimate:ArchimateDiagramModel>
