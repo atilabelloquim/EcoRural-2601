@@ -1,0 +1,17 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CONTROLE DE REVISÕES E BRANCHES"
+    id="id-fea40325f9b94df58fe40fa060d14ba1">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-442387ab4a954b969c236a30efb3ff86"
+      textAlignment="1"
+      content="Criação - Atila - 30/1/2026">
+    <bounds
+        x="180"
+        y="90"
+        width="185"
+        height="80"/>
+  </children>
+</archimate:ArchimateDiagramModel>
