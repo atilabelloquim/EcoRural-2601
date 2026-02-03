@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vendas"
-    id="id-8aabad9e470e4e8bb7bb870e4cc2209e"/>
+    id="id-8aabad9e470e4e8bb7bb870e4cc2209e"
+    documentation="herdado da Serra mar"/>

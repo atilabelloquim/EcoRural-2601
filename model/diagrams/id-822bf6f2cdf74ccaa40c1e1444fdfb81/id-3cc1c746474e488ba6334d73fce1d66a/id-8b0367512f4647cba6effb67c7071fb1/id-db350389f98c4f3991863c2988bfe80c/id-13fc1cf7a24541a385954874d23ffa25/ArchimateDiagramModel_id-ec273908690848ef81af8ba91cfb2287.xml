@@ -11,8 +11,8 @@
     <bounds
         x="36"
         y="72"
-        width="925"
-        height="337"/>
+        width="1057"
+        height="409"/>
     <children
         xsi:type="archimate:DiagramModelGroup"
         id="id-8c0d12dfbf52466696b3c7fcc4299901"
@@ -21,8 +21,68 @@
       <bounds
           x="12"
           y="36"
-          width="901"
+          width="1009"
           height="121"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-b19b7e9603c54a30975a3c630f4f91da">
+        <bounds
+            x="24"
+            y="36"
+            width="121"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Principle"
+            href="Principle_id-f6f4b4336bd24e578ac718d60137d91d.xml#id-f6f4b4336bd24e578ac718d60137d91d"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-4012f7cfabda45418f2515517f376a33">
+        <bounds
+            x="180"
+            y="36"
+            width="224"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Principle"
+            href="Principle_id-6264a32d12214f598222c90f221930db.xml#id-6264a32d12214f598222c90f221930db"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-87f99ad6cb2d4b569e01f495ea887c58">
+        <bounds
+            x="444"
+            y="36"
+            width="154"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Principle"
+            href="Principle_id-16eb6758c6ba4483af43103d9c3e4c1f.xml#id-16eb6758c6ba4483af43103d9c3e4c1f"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-dfc45c844bd64f3fa834691ef704e102">
+        <bounds
+            x="648"
+            y="36"
+            width="121"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Principle"
+            href="Principle_id-2d3cc0eac1eb40aba9344d81270f87e4.xml#id-2d3cc0eac1eb40aba9344d81270f87e4"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-f8796d3c522d474b9edd14bf74250834">
+        <bounds
+            x="828"
+            y="36"
+            width="121"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Principle"
+            href="Principle_id-69b9b5a5a94c40a68d799c6019009e66.xml#id-69b9b5a5a94c40a68d799c6019009e66"/>
+      </children>
     </children>
     <children
         xsi:type="archimate:DiagramModelGroup"
@@ -31,9 +91,57 @@
         textAlignment="1">
       <bounds
           x="12"
-          y="192"
-          width="901"
-          height="121"/>
+          y="180"
+          width="1009"
+          height="145"/>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-0478b4e4ae6044c3828cc327cea9d0b0">
+        <bounds
+            x="24"
+            y="61"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Principle"
+            href="Principle_id-66a29c5e12c24f58a2d0b08183d8bcb9.xml#id-66a29c5e12c24f58a2d0b08183d8bcb9"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-23daa45591324ef4863b85254a4c6422">
+        <bounds
+            x="192"
+            y="61"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Principle"
+            href="Principle_id-cd9a36aebf2747118ee480727c5ceb7c.xml#id-cd9a36aebf2747118ee480727c5ceb7c"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-a71d6b8302dd47f3bd73376e5d98b1c8">
+        <bounds
+            x="396"
+            y="61"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Principle"
+            href="Principle_id-cff49f4a7a5b4f77aec562362dd69721.xml#id-cff49f4a7a5b4f77aec562362dd69721"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="id-6219621e9ba94446a19dbe03a3782307">
+        <bounds
+            x="588"
+            y="61"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:Principle"
+            href="Principle_id-72c3ffc68740484e9c368e8219804ad4.xml#id-72c3ffc68740484e9c368e8219804ad4"/>
+      </children>
     </children>
   </children>
   <children

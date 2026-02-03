@@ -20,8 +20,8 @@
           href="RealizationRelationship_id-81ff6932546f4c9ba3658dd6dd719f6a.xml#id-81ff6932546f4c9ba3658dd6dd719f6a"/>
     </sourceConnections>
     <bounds
-        x="81"
-        y="72"
+        x="93"
+        y="132"
         width="171"
         height="73"/>
     <archimateElement
@@ -37,8 +37,8 @@
         source="id-c5c742c8b37a472fa06e043af4b6e772"
         target="id-0e3aca1fa174468c8f6210eab84a81cb"/>
     <bounds
-        x="408"
-        y="72"
+        x="420"
+        y="132"
         width="157"
         height="73"/>
     <archimateElement
@@ -50,11 +50,11 @@
       id="id-21834876d7cd40bc98bb1e3eb192827e"
       targetConnections="id-7810edaf7102488ca3dd34b93ab7c094"
       textAlignment="1"
-      content="Texto da Missão.">
+      content="Oferecer soluções completas de experiências turísticas a pessoas e&#xA;famílias que desejem reconectar-se à Natureza.">
     <bounds
-        x="74"
-        y="192"
-        width="185"
+        x="86"
+        y="252"
+        width="227"
         height="80"/>
   </children>
   <children
@@ -62,12 +62,12 @@
       id="id-0e3aca1fa174468c8f6210eab84a81cb"
       targetConnections="id-eb10a033d88c4fa4a3a099904f60e4b4"
       textAlignment="1"
-      content="Texto da Visão.">
+      content="Ser a escolha Número Um para experiências turísticas de contato com a&#xA;Natureza para pessoas e famílias sofisticadas.">
     <bounds
-        x="394"
-        y="192"
-        width="185"
-        height="80"/>
+        x="406"
+        y="252"
+        width="231"
+        height="97"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelReference"

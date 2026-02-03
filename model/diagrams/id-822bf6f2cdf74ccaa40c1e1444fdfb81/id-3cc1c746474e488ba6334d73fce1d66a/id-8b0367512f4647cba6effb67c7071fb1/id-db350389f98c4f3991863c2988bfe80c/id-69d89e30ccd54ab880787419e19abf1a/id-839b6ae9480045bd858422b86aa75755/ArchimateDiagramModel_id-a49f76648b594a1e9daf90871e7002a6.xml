@@ -34,7 +34,7 @@
           href="CompositionRelationship_id-bb700dd268974c978873c5e822b563c9.xml#id-bb700dd268974c978873c5e822b563c9"/>
     </sourceConnections>
     <bounds
-        x="424"
+        x="422"
         y="47"
         width="120"
         height="55"/>
@@ -88,8 +88,27 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-7a3f06ef8eb54d6ca80aa77e2fed4c08.xml#id-7a3f06ef8eb54d6ca80aa77e2fed4c08"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-3b24625f1fc9414e8c44cd5d34d7ba1b"
+        source="id-45a200e185114d66803de86d660c8d53"
+        target="id-4f5ff0ec01494a4795a5101bd4a0e218">
+      <bendpoints
+          startX="-41"
+          startY="153"
+          endX="-85"
+          endY="-171"/>
+      <bendpoints
+          startX="-41"
+          startY="321"
+          endX="-85"
+          endY="-3"/>
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-d6220464ee914a198191478b3d551260.xml#id-d6220464ee914a198191478b3d551260"/>
+    </sourceConnections>
     <bounds
-        x="728"
+        x="726"
         y="180"
         width="120"
         height="55"/>
@@ -186,7 +205,7 @@
           href="CompositionRelationship_id-b24eb20ecdac4abc8c08cdf01cbba240.xml#id-b24eb20ecdac4abc8c08cdf01cbba240"/>
     </sourceConnections>
     <bounds
-        x="424"
+        x="422"
         y="180"
         width="120"
         height="55"/>
@@ -198,20 +217,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d6798d536f684805a00ef62353733c0b"
       targetConnections="id-2b2b7ed6f9914ae3bf4f74db95b3eb31">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ea90e8f453b647a2bb919c7eb7cc6380"
-        source="id-d6798d536f684805a00ef62353733c0b"
-        target="id-4f5ff0ec01494a4795a5101bd4a0e218">
-      <bendpoints
-          startX="-24"
-          startY="81"
-          endX="-102"
-          endY="-3"/>
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-019659e94003463faae442c6ebdca13a.xml#id-019659e94003463faae442c6ebdca13a"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-a2dac7892167482e91d483b5adbb6897"
@@ -255,7 +260,7 @@
           href="CompositionRelationship_id-3b6976f18a02433d8f4e049f5e6ed74e.xml#id-3b6976f18a02433d8f4e049f5e6ed74e"/>
     </sourceConnections>
     <bounds
-        x="128"
+        x="126"
         y="180"
         width="120"
         height="55"/>
@@ -266,10 +271,10 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4f5ff0ec01494a4795a5101bd4a0e218"
-      targetConnections="id-ea90e8f453b647a2bb919c7eb7cc6380">
+      targetConnections="id-3b24625f1fc9414e8c44cd5d34d7ba1b">
     <bounds
-        x="206"
-        y="264"
+        x="770"
+        y="504"
         width="120"
         height="55"/>
     <archimateElement
@@ -281,7 +286,7 @@
       id="id-d643f693173444a6a32c2a7a4924b8af"
       targetConnections="id-a2dac7892167482e91d483b5adbb6897">
     <bounds
-        x="209"
+        x="207"
         y="340"
         width="120"
         height="55"/>
@@ -294,7 +299,7 @@
       id="id-e355ca0d77e141d0833c2904c1a1488d"
       targetConnections="id-893c40568f0f477f9e26281ea578089c">
     <bounds
-        x="207"
+        x="205"
         y="423"
         width="120"
         height="55"/>
@@ -307,7 +312,7 @@
       id="id-a99c863e426a4df78e5476676639d955"
       targetConnections="id-ba86e5a2c8734192aadd073f92cafbae">
     <bounds
-        x="210"
+        x="208"
         y="509"
         width="120"
         height="55"/>
@@ -320,7 +325,7 @@
       id="id-eefa91fd5fac4b6f97f696c8ab972d50"
       targetConnections="id-47a46b441c2144d1a00ea1cf6e53c8ef">
     <bounds
-        x="772"
+        x="770"
         y="264"
         width="120"
         height="55"/>
@@ -333,7 +338,7 @@
       id="id-68660aedc8144b9b915d36e19df9e9cf"
       targetConnections="id-92f85ed3ac39401a810c1b3f4f617021">
     <bounds
-        x="772"
+        x="770"
         y="340"
         width="120"
         height="55"/>
@@ -346,7 +351,7 @@
       id="id-8f922b185efe463e914f79f842c3a869"
       targetConnections="id-9619b6f3dedd4110a6ca024bdbe57bb6">
     <bounds
-        x="772"
+        x="770"
         y="423"
         width="120"
         height="55"/>
@@ -359,7 +364,7 @@
       id="id-9342f88e9b6a41adbcb767d95483a1d7"
       targetConnections="id-e42ffb13b03a4a8496d30e1fcc2cbd4c">
     <bounds
-        x="472"
+        x="470"
         y="264"
         width="120"
         height="55"/>
@@ -372,7 +377,7 @@
       id="id-c192a172b65b4e878fbbac98ae6bfc8c"
       targetConnections="id-ba74c025843d4079a94bd9fc7b3f2eea">
     <bounds
-        x="472"
+        x="470"
         y="340"
         width="120"
         height="55"/>
@@ -385,7 +390,7 @@
       id="id-6ce0313033e2478fa73c57aeb4296035"
       targetConnections="id-97612164dfba4b6995061ca1346acca4">
     <bounds
-        x="472"
+        x="470"
         y="423"
         width="120"
         height="55"/>
@@ -398,7 +403,7 @@
       id="id-66123923b4514d408ad87188ff72a2dd"
       targetConnections="id-df47b27b421243b68a63b4ed7df0cd49">
     <bounds
-        x="475"
+        x="473"
         y="509"
         width="120"
         height="55"/>
@@ -411,7 +416,7 @@
       id="id-61268f2f51404318a2322baf9af9a0c0"
       targetConnections="id-e498f7a2a67042ccab025aafe6661558">
     <bounds
-        x="475"
+        x="473"
         y="600"
         width="120"
         height="55"/>
@@ -424,7 +429,7 @@
       id="id-bbe16effc478423a89c923a74d731d0f"
       targetConnections="id-f5ca18c2fce942b19ca0772971c1632b">
     <bounds
-        x="475"
+        x="473"
         y="684"
         width="120"
         height="55"/>
