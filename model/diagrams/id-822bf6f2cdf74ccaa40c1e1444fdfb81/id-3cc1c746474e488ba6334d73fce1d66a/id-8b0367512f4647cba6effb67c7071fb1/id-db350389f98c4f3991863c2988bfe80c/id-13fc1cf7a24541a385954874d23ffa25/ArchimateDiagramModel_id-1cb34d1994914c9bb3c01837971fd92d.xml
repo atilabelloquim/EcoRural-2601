@@ -186,7 +186,7 @@
         id="id-4da0ccf0118b448b89fdd6ac3b8b738a"
         targetConnections="id-5647eafa56b04facb644fb3097b7182a id-9eefc0770adb4fe398debfb11b447370">
       <bounds
-          x="408"
+          x="444"
           y="45"
           width="120"
           height="55"/>
@@ -279,10 +279,21 @@
             href="InfluenceRelationship_id-b32bec6161c4402186309fd5d7602e33.xml#id-b32bec6161c4402186309fd5d7602e33"/>
       </sourceConnections>
       <bounds
-          x="348"
+          x="384"
           y="36"
           width="120"
           height="55"/>
+      <children
+          xsi:type="archimate:DiagramModelReference"
+          id="id-556f8b598d2a4d638511f6c54839fb82">
+        <bounds
+            y="24"
+            width="25"
+            height="25"/>
+        <referencedModel
+            xsi:type="archimate:ArchimateDiagramModel"
+            href="ArchimateDiagramModel_id-08bd0ec7a5874c0e80dcd1d621088325.xml#id-08bd0ec7a5874c0e80dcd1d621088325"/>
+      </children>
       <archimateElement
           xsi:type="archimate:Goal"
           href="Goal_id-839d1e55ae0c4dc995c243ed00847907.xml#id-839d1e55ae0c4dc995c243ed00847907"/>
