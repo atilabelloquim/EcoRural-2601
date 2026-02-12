@@ -1,0 +1,10 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ônibus Luxo / DD"
+    id="id-6b53dbbd12e748f3ad22674dd4679dc3">
+  <properties
+      key="Quantidade"
+      value="10"/>
+  <profiles
+      href="folder.xml#id-c0239a5fb7aa45c997a7b318d41d26d0"/>
+</archimate:Equipment>

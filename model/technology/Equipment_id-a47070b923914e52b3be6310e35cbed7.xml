@@ -1,0 +1,10 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leito"
+    id="id-a47070b923914e52b3be6310e35cbed7">
+  <properties
+      key="Quantidade"
+      value="3"/>
+  <profiles
+      href="folder.xml#id-3012fa9f77934be78f19f02dd5a653f8"/>
+</archimate:Equipment>

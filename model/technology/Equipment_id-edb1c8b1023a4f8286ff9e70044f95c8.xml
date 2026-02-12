@@ -1,0 +1,10 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Convencional"
+    id="id-edb1c8b1023a4f8286ff9e70044f95c8">
+  <properties
+      key="Quantidade"
+      value="20"/>
+  <profiles
+      href="folder.xml#id-8cb0b999b31a4779ad24a6da02763d49"/>
+</archimate:Equipment>

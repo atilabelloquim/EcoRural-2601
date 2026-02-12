@@ -11,4 +11,20 @@
       name="Atribuições"
       id="id-30f8cd0d20b34610a159aa4793a1dfc1"
       conceptType="BusinessObject"/>
+  <profiles
+      name="Ônibus Luxo / DD"
+      id="id-c0239a5fb7aa45c997a7b318d41d26d0"
+      conceptType="Equipment"/>
+  <profiles
+      name="Ônibus"
+      id="id-c7ae64856dce4b0bbefce44df41d9509"
+      conceptType="Equipment"/>
+  <profiles
+      name="Leito"
+      id="id-3012fa9f77934be78f19f02dd5a653f8"
+      conceptType="Equipment"/>
+  <profiles
+      name="Convencional"
+      id="id-8cb0b999b31a4779ad24a6da02763d49"
+      conceptType="Equipment"/>
 </archimate:ArchimateModel>
